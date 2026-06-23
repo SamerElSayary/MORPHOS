@@ -1,0 +1,1 @@
+MORPHOS is a browser‑native, single‑file studio that turns any 2D image into a watertight, 3D‑printable form — relief, contour terraces, voxels, faceted, lathe, and more — wrapped onto flat panels, rounded boxes, or cylinders, with full UVW image‑mapping and resolution control, all offline and ready to export.
